@@ -1,0 +1,8 @@
+# fluxo que preciso decorar para subir git/github
+# git status
+# git add .
+# git commit -m "O que eu fiz"
+# git push
+
+# comando para atualizar meu repositório local com o remoto
+# git pull
